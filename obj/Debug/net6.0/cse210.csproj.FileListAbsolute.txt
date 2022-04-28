@@ -1,0 +1,15 @@
+/Users/elyssahancock/Documents/GitHub/cse210/bin/Debug/net6.0/cse210
+/Users/elyssahancock/Documents/GitHub/cse210/bin/Debug/net6.0/cse210.deps.json
+/Users/elyssahancock/Documents/GitHub/cse210/bin/Debug/net6.0/cse210.runtimeconfig.json
+/Users/elyssahancock/Documents/GitHub/cse210/bin/Debug/net6.0/cse210.dll
+/Users/elyssahancock/Documents/GitHub/cse210/bin/Debug/net6.0/cse210.pdb
+/Users/elyssahancock/Documents/GitHub/cse210/obj/Debug/net6.0/cse210.csproj.AssemblyReference.cache
+/Users/elyssahancock/Documents/GitHub/cse210/obj/Debug/net6.0/cse210.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elyssahancock/Documents/GitHub/cse210/obj/Debug/net6.0/cse210.AssemblyInfoInputs.cache
+/Users/elyssahancock/Documents/GitHub/cse210/obj/Debug/net6.0/cse210.AssemblyInfo.cs
+/Users/elyssahancock/Documents/GitHub/cse210/obj/Debug/net6.0/cse210.csproj.CoreCompileInputs.cache
+/Users/elyssahancock/Documents/GitHub/cse210/obj/Debug/net6.0/cse210.dll
+/Users/elyssahancock/Documents/GitHub/cse210/obj/Debug/net6.0/refint/cse210.dll
+/Users/elyssahancock/Documents/GitHub/cse210/obj/Debug/net6.0/cse210.pdb
+/Users/elyssahancock/Documents/GitHub/cse210/obj/Debug/net6.0/cse210.genruntimeconfig.cache
+/Users/elyssahancock/Documents/GitHub/cse210/obj/Debug/net6.0/ref/cse210.dll
