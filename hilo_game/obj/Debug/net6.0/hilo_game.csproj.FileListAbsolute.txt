@@ -1,0 +1,30 @@
+/Users/elyssahancock/Desktop/cse 210/week 4/hilo_game/bin/Debug/net6.0/hilo_game
+/Users/elyssahancock/Desktop/cse 210/week 4/hilo_game/bin/Debug/net6.0/hilo_game.deps.json
+/Users/elyssahancock/Desktop/cse 210/week 4/hilo_game/bin/Debug/net6.0/hilo_game.runtimeconfig.json
+/Users/elyssahancock/Desktop/cse 210/week 4/hilo_game/bin/Debug/net6.0/hilo_game.dll
+/Users/elyssahancock/Desktop/cse 210/week 4/hilo_game/bin/Debug/net6.0/hilo_game.pdb
+/Users/elyssahancock/Desktop/cse 210/week 4/hilo_game/obj/Debug/net6.0/hilo_game.csproj.AssemblyReference.cache
+/Users/elyssahancock/Desktop/cse 210/week 4/hilo_game/obj/Debug/net6.0/hilo_game.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elyssahancock/Desktop/cse 210/week 4/hilo_game/obj/Debug/net6.0/hilo_game.AssemblyInfoInputs.cache
+/Users/elyssahancock/Desktop/cse 210/week 4/hilo_game/obj/Debug/net6.0/hilo_game.AssemblyInfo.cs
+/Users/elyssahancock/Desktop/cse 210/week 4/hilo_game/obj/Debug/net6.0/hilo_game.csproj.CoreCompileInputs.cache
+/Users/elyssahancock/Desktop/cse 210/week 4/hilo_game/obj/Debug/net6.0/hilo_game.dll
+/Users/elyssahancock/Desktop/cse 210/week 4/hilo_game/obj/Debug/net6.0/refint/hilo_game.dll
+/Users/elyssahancock/Desktop/cse 210/week 4/hilo_game/obj/Debug/net6.0/hilo_game.pdb
+/Users/elyssahancock/Desktop/cse 210/week 4/hilo_game/obj/Debug/net6.0/hilo_game.genruntimeconfig.cache
+/Users/elyssahancock/Desktop/cse 210/week 4/hilo_game/obj/Debug/net6.0/ref/hilo_game.dll
+/Users/elyssahancock/Documents/GitHub/cse210/hilo_game/bin/Debug/net6.0/hilo_game
+/Users/elyssahancock/Documents/GitHub/cse210/hilo_game/bin/Debug/net6.0/hilo_game.deps.json
+/Users/elyssahancock/Documents/GitHub/cse210/hilo_game/bin/Debug/net6.0/hilo_game.runtimeconfig.json
+/Users/elyssahancock/Documents/GitHub/cse210/hilo_game/bin/Debug/net6.0/hilo_game.dll
+/Users/elyssahancock/Documents/GitHub/cse210/hilo_game/bin/Debug/net6.0/hilo_game.pdb
+/Users/elyssahancock/Documents/GitHub/cse210/hilo_game/obj/Debug/net6.0/hilo_game.csproj.AssemblyReference.cache
+/Users/elyssahancock/Documents/GitHub/cse210/hilo_game/obj/Debug/net6.0/hilo_game.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elyssahancock/Documents/GitHub/cse210/hilo_game/obj/Debug/net6.0/hilo_game.AssemblyInfoInputs.cache
+/Users/elyssahancock/Documents/GitHub/cse210/hilo_game/obj/Debug/net6.0/hilo_game.AssemblyInfo.cs
+/Users/elyssahancock/Documents/GitHub/cse210/hilo_game/obj/Debug/net6.0/hilo_game.csproj.CoreCompileInputs.cache
+/Users/elyssahancock/Documents/GitHub/cse210/hilo_game/obj/Debug/net6.0/hilo_game.dll
+/Users/elyssahancock/Documents/GitHub/cse210/hilo_game/obj/Debug/net6.0/refint/hilo_game.dll
+/Users/elyssahancock/Documents/GitHub/cse210/hilo_game/obj/Debug/net6.0/hilo_game.pdb
+/Users/elyssahancock/Documents/GitHub/cse210/hilo_game/obj/Debug/net6.0/hilo_game.genruntimeconfig.cache
+/Users/elyssahancock/Documents/GitHub/cse210/hilo_game/obj/Debug/net6.0/ref/hilo_game.dll
