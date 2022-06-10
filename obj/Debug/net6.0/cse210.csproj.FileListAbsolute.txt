@@ -1,0 +1,5 @@
+/Users/elyssahancock/Documents/GitHub/cse210/obj/Debug/net6.0/cse210.csproj.AssemblyReference.cache
+/Users/elyssahancock/Documents/GitHub/cse210/obj/Debug/net6.0/cse210.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elyssahancock/Documents/GitHub/cse210/obj/Debug/net6.0/cse210.AssemblyInfoInputs.cache
+/Users/elyssahancock/Documents/GitHub/cse210/obj/Debug/net6.0/cse210.AssemblyInfo.cs
+/Users/elyssahancock/Documents/GitHub/cse210/obj/Debug/net6.0/cse210.csproj.CoreCompileInputs.cache

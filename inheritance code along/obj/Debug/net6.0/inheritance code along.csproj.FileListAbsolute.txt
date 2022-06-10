@@ -1,0 +1,15 @@
+/Users/elyssahancock/Documents/GitHub/cse210/inheritance code along/obj/Debug/net6.0/inheritance code along.csproj.AssemblyReference.cache
+/Users/elyssahancock/Documents/GitHub/cse210/inheritance code along/obj/Debug/net6.0/inheritance code along.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elyssahancock/Documents/GitHub/cse210/inheritance code along/obj/Debug/net6.0/inheritance code along.AssemblyInfoInputs.cache
+/Users/elyssahancock/Documents/GitHub/cse210/inheritance code along/obj/Debug/net6.0/inheritance code along.AssemblyInfo.cs
+/Users/elyssahancock/Documents/GitHub/cse210/inheritance code along/obj/Debug/net6.0/inheritance code along.csproj.CoreCompileInputs.cache
+/Users/elyssahancock/Documents/GitHub/cse210/inheritance code along/bin/Debug/net6.0/inheritance code along
+/Users/elyssahancock/Documents/GitHub/cse210/inheritance code along/bin/Debug/net6.0/inheritance code along.deps.json
+/Users/elyssahancock/Documents/GitHub/cse210/inheritance code along/bin/Debug/net6.0/inheritance code along.runtimeconfig.json
+/Users/elyssahancock/Documents/GitHub/cse210/inheritance code along/bin/Debug/net6.0/inheritance code along.dll
+/Users/elyssahancock/Documents/GitHub/cse210/inheritance code along/bin/Debug/net6.0/inheritance code along.pdb
+/Users/elyssahancock/Documents/GitHub/cse210/inheritance code along/obj/Debug/net6.0/inheritance code along.dll
+/Users/elyssahancock/Documents/GitHub/cse210/inheritance code along/obj/Debug/net6.0/refint/inheritance code along.dll
+/Users/elyssahancock/Documents/GitHub/cse210/inheritance code along/obj/Debug/net6.0/inheritance code along.pdb
+/Users/elyssahancock/Documents/GitHub/cse210/inheritance code along/obj/Debug/net6.0/inheritance code along.genruntimeconfig.cache
+/Users/elyssahancock/Documents/GitHub/cse210/inheritance code along/obj/Debug/net6.0/ref/inheritance code along.dll

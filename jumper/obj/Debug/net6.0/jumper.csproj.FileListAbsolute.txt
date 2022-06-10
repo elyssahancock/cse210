@@ -1,0 +1,15 @@
+/Users/elyssahancock/Documents/GitHub/cse210/jumper/bin/Debug/net6.0/jumper
+/Users/elyssahancock/Documents/GitHub/cse210/jumper/bin/Debug/net6.0/jumper.deps.json
+/Users/elyssahancock/Documents/GitHub/cse210/jumper/bin/Debug/net6.0/jumper.runtimeconfig.json
+/Users/elyssahancock/Documents/GitHub/cse210/jumper/bin/Debug/net6.0/jumper.dll
+/Users/elyssahancock/Documents/GitHub/cse210/jumper/bin/Debug/net6.0/jumper.pdb
+/Users/elyssahancock/Documents/GitHub/cse210/jumper/obj/Debug/net6.0/jumper.csproj.AssemblyReference.cache
+/Users/elyssahancock/Documents/GitHub/cse210/jumper/obj/Debug/net6.0/jumper.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elyssahancock/Documents/GitHub/cse210/jumper/obj/Debug/net6.0/jumper.AssemblyInfoInputs.cache
+/Users/elyssahancock/Documents/GitHub/cse210/jumper/obj/Debug/net6.0/jumper.AssemblyInfo.cs
+/Users/elyssahancock/Documents/GitHub/cse210/jumper/obj/Debug/net6.0/jumper.csproj.CoreCompileInputs.cache
+/Users/elyssahancock/Documents/GitHub/cse210/jumper/obj/Debug/net6.0/jumper.dll
+/Users/elyssahancock/Documents/GitHub/cse210/jumper/obj/Debug/net6.0/refint/jumper.dll
+/Users/elyssahancock/Documents/GitHub/cse210/jumper/obj/Debug/net6.0/jumper.pdb
+/Users/elyssahancock/Documents/GitHub/cse210/jumper/obj/Debug/net6.0/jumper.genruntimeconfig.cache
+/Users/elyssahancock/Documents/GitHub/cse210/jumper/obj/Debug/net6.0/ref/jumper.dll

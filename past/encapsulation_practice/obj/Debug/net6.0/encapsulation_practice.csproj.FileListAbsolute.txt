@@ -1,0 +1,15 @@
+/Users/elyssahancock/Documents/GitHub/cse210/encapsulation_practice/bin/Debug/net6.0/encapsulation_practice
+/Users/elyssahancock/Documents/GitHub/cse210/encapsulation_practice/bin/Debug/net6.0/encapsulation_practice.deps.json
+/Users/elyssahancock/Documents/GitHub/cse210/encapsulation_practice/bin/Debug/net6.0/encapsulation_practice.runtimeconfig.json
+/Users/elyssahancock/Documents/GitHub/cse210/encapsulation_practice/bin/Debug/net6.0/encapsulation_practice.dll
+/Users/elyssahancock/Documents/GitHub/cse210/encapsulation_practice/bin/Debug/net6.0/encapsulation_practice.pdb
+/Users/elyssahancock/Documents/GitHub/cse210/encapsulation_practice/obj/Debug/net6.0/encapsulation_practice.csproj.AssemblyReference.cache
+/Users/elyssahancock/Documents/GitHub/cse210/encapsulation_practice/obj/Debug/net6.0/encapsulation_practice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elyssahancock/Documents/GitHub/cse210/encapsulation_practice/obj/Debug/net6.0/encapsulation_practice.AssemblyInfoInputs.cache
+/Users/elyssahancock/Documents/GitHub/cse210/encapsulation_practice/obj/Debug/net6.0/encapsulation_practice.AssemblyInfo.cs
+/Users/elyssahancock/Documents/GitHub/cse210/encapsulation_practice/obj/Debug/net6.0/encapsulation_practice.csproj.CoreCompileInputs.cache
+/Users/elyssahancock/Documents/GitHub/cse210/encapsulation_practice/obj/Debug/net6.0/encapsulation_practice.dll
+/Users/elyssahancock/Documents/GitHub/cse210/encapsulation_practice/obj/Debug/net6.0/refint/encapsulation_practice.dll
+/Users/elyssahancock/Documents/GitHub/cse210/encapsulation_practice/obj/Debug/net6.0/encapsulation_practice.pdb
+/Users/elyssahancock/Documents/GitHub/cse210/encapsulation_practice/obj/Debug/net6.0/encapsulation_practice.genruntimeconfig.cache
+/Users/elyssahancock/Documents/GitHub/cse210/encapsulation_practice/obj/Debug/net6.0/ref/encapsulation_practice.dll
