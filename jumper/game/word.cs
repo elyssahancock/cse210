@@ -5,7 +5,7 @@ namespace Jumper{
         public Word(){
 
         }
-        string[] wordArray = {"accurate","achiever","acid","acidic","acoustic","acoustics","acrid",
+    string[] wordArray = {"accurate","achiever","acid","acidic","acoustic","acoustics","acrid",
 "act","action","activity","actor","actually","adamant","adaptable",
 "add","addicted","addition","adhesive","adjoining","adjustment","admire",
 "admit","adorable","adventurous","advertisement","advice","advise","afford",

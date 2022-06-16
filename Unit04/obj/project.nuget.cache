@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "PyEWEI3bo96M74K86/2zWhRlcy6NGlVgsbI+t1Ekq6QeKB+WZPQhOwIqQvMfvF8GTHwOOgiJsanEfUECEwoRaw==",
+  "success": true,
+  "projectFilePath": "/Users/elyssahancock/Documents/GitHub/cse210/Unit04/Unit04.csproj",
+  "expectedPackageFiles": [
+    "/Users/elyssahancock/.nuget/packages/raylib-cs/4.0.0.1/raylib-cs.4.0.0.1.nupkg.sha512",
+    "/Users/elyssahancock/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
