@@ -13,25 +13,23 @@ public class Rules {
     }
 
     public int guess(Card card){
+        // determine whether or not the correct response is to slap
         if (card.cardNumber == ((Rulesplayer.count % 5) + 1)){
             shouldSlap = 1;
-            
         }
         else {
             shouldSlap = 0;
         }
-        //Console.WriteLine($"Should slap = {shouldSlap}");
-        //Console.WriteLine($"Remainder:{Rulesplayer.count % 5 +1} of Count {Rulesplayer.count} {card.cardNumber} {card.cardList[Rulesplayer.count%5+1]}");
 
-        // Console.WriteLine($"cardNum: {card.cardNumber} == countDeterminate: {((Rulesplayer.count % 5) + 1)} ");
+        // prompt the user for their slap and get the response
         Console.WriteLine("Slap (1) or No Slap (0) or Quit (2)?");
         slap = int.Parse(Console.ReadLine());
         
         
         
-        // Console.WriteLine($"Should slap = {shouldSlap}");
+       
         if (shouldSlap != slap){
-            return 0; // return stillPlaying
+            return 0; // return not stillPlaying
         }
         
         return 1; // return still Playing
