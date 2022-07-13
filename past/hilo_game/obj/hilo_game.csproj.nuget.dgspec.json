@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/elyssahancock/Documents/GitHub/cse210/hilo_game/hilo_game.csproj": {}
+    "/Users/elyssahancock/Documents/GitHub/cse210/past/hilo_game/hilo_game.csproj": {}
   },
   "projects": {
-    "/Users/elyssahancock/Documents/GitHub/cse210/hilo_game/hilo_game.csproj": {
+    "/Users/elyssahancock/Documents/GitHub/cse210/past/hilo_game/hilo_game.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/elyssahancock/Documents/GitHub/cse210/hilo_game/hilo_game.csproj",
+        "projectUniqueName": "/Users/elyssahancock/Documents/GitHub/cse210/past/hilo_game/hilo_game.csproj",
         "projectName": "hilo_game",
-        "projectPath": "/Users/elyssahancock/Documents/GitHub/cse210/hilo_game/hilo_game.csproj",
+        "projectPath": "/Users/elyssahancock/Documents/GitHub/cse210/past/hilo_game/hilo_game.csproj",
         "packagesPath": "/Users/elyssahancock/.nuget/packages/",
-        "outputPath": "/Users/elyssahancock/Documents/GitHub/cse210/hilo_game/obj/",
+        "outputPath": "/Users/elyssahancock/Documents/GitHub/cse210/past/hilo_game/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/elyssahancock/.nuget/NuGet/NuGet.Config"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.202/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.300/RuntimeIdentifierGraph.json"
         }
       }
     }

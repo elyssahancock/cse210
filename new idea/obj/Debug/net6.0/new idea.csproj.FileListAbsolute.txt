@@ -1,0 +1,15 @@
+/Users/elyssahancock/Documents/GitHub/cse210/new idea/obj/Debug/net6.0/new idea.csproj.AssemblyReference.cache
+/Users/elyssahancock/Documents/GitHub/cse210/new idea/obj/Debug/net6.0/new idea.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elyssahancock/Documents/GitHub/cse210/new idea/obj/Debug/net6.0/new idea.AssemblyInfoInputs.cache
+/Users/elyssahancock/Documents/GitHub/cse210/new idea/obj/Debug/net6.0/new idea.AssemblyInfo.cs
+/Users/elyssahancock/Documents/GitHub/cse210/new idea/obj/Debug/net6.0/new idea.csproj.CoreCompileInputs.cache
+/Users/elyssahancock/Documents/GitHub/cse210/new idea/bin/Debug/net6.0/new idea
+/Users/elyssahancock/Documents/GitHub/cse210/new idea/bin/Debug/net6.0/new idea.deps.json
+/Users/elyssahancock/Documents/GitHub/cse210/new idea/bin/Debug/net6.0/new idea.runtimeconfig.json
+/Users/elyssahancock/Documents/GitHub/cse210/new idea/bin/Debug/net6.0/new idea.dll
+/Users/elyssahancock/Documents/GitHub/cse210/new idea/bin/Debug/net6.0/new idea.pdb
+/Users/elyssahancock/Documents/GitHub/cse210/new idea/obj/Debug/net6.0/new idea.dll
+/Users/elyssahancock/Documents/GitHub/cse210/new idea/obj/Debug/net6.0/refint/new idea.dll
+/Users/elyssahancock/Documents/GitHub/cse210/new idea/obj/Debug/net6.0/new idea.pdb
+/Users/elyssahancock/Documents/GitHub/cse210/new idea/obj/Debug/net6.0/new idea.genruntimeconfig.cache
+/Users/elyssahancock/Documents/GitHub/cse210/new idea/obj/Debug/net6.0/ref/new idea.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/elyssahancock/Documents/GitHub/cse210-student-articulate-csharp/Unit05/Unit05.csproj": {}
+    "/Users/elyssahancock/Documents/GitHub/cse210/cycle/Unit05.csproj": {}
   },
   "projects": {
-    "/Users/elyssahancock/Documents/GitHub/cse210-student-articulate-csharp/Unit05/Unit05.csproj": {
+    "/Users/elyssahancock/Documents/GitHub/cse210/cycle/Unit05.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/elyssahancock/Documents/GitHub/cse210-student-articulate-csharp/Unit05/Unit05.csproj",
+        "projectUniqueName": "/Users/elyssahancock/Documents/GitHub/cse210/cycle/Unit05.csproj",
         "projectName": "Unit05",
-        "projectPath": "/Users/elyssahancock/Documents/GitHub/cse210-student-articulate-csharp/Unit05/Unit05.csproj",
+        "projectPath": "/Users/elyssahancock/Documents/GitHub/cse210/cycle/Unit05.csproj",
         "packagesPath": "/Users/elyssahancock/.nuget/packages/",
-        "outputPath": "/Users/elyssahancock/Documents/GitHub/cse210-student-articulate-csharp/Unit05/obj/",
+        "outputPath": "/Users/elyssahancock/Documents/GitHub/cse210/cycle/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/elyssahancock/.nuget/NuGet/NuGet.Config"
